@@ -96,7 +96,7 @@ st.markdown(footer, unsafe_allow_html=True)
 import pickle
 
 # Load the encoder model
-with open("models\enc_model.pkl", "rb") as f:
+with open("models/enc_model.pkl", "rb") as f:
     encoder = pickle.load(f)
 
 # Load the SVM classification model
