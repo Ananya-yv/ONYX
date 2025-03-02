@@ -86,7 +86,7 @@ footer = """
     <p>Developed by Ananya | © 2025 All Rights Reserved</p>
     <p>
         <a href="https://github.com/Ananya-yv" target="_blank">GitHub</a> | 
-        <a href="www.linkedin.com/in/venkata-ananya-yerrapragada-29299b2b8" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/venkata-ananya-yerrapragada-29299b2b8/" target="_blank">LinkedIn</a>
     </p>
 </div>
 """
