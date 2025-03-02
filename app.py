@@ -100,7 +100,7 @@ with open("models/enc_model.pkl", "rb") as f:
     encoder = pickle.load(f)
 
 # Load the SVM classification model
-with open("models\svm_model.pkl", "rb") as f:
+with open("models/svm_model.pkl", "rb") as f:
     classifier = pickle.load(f)
 
 st.markdown(
