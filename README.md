@@ -5,7 +5,7 @@
 ##  Overview
 This project is a **Spam Classifier** designed to detect spam messages in **English**. It leverages **SBERT (Sentence-BERT) for text embeddings** and **Support Vector Machine (SVM) for classification**.
 
-## 🛠️ Features
+##  Features
 - **Handles English text messages**
 - **Uses SBERT for high-quality text embeddings**
 - **Employs SVM for efficient spam classification**
