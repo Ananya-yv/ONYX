@@ -14,13 +14,15 @@ This project is a **Spam Classifier** designed to detect spam messages in **Engl
 - **Live and accessible via Streamlit.**
 
 ##  Dataset
-The dataset consists of about **5575** English text messages labeled as **spam** or **not spam** .
+The dataset consists of about **5575** English text messages labeled as **spam** or **not spam**.<br>
+(spam.csv file)
 
 ##  Methodology
 1. **Text Embeddings:** SBERT converts text messages into high-dimensional vectors.
 2. **Data Balancing:** SMOTE is used to address class imbalance.
 3. **Classification:** SVM classifies the messages as spam or not spam.
-4. **Evaluation:** The model is evaluated using accuracy, confusion matrix, and classification reports.
+4. **Evaluation:** The model is evaluated using accuracy, confusion matrix, and classification reports.<br><br>
+View the full code in the "Spam Classifier - SBERT and SVM.ipynb" file
 
 ##  Results
 -  **Model accuracy - 99.01%.**
